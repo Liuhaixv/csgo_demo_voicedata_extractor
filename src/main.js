@@ -1,5 +1,5 @@
 /*
-  This file extracts encoded voicedata from demo
+  This file extracts encodes voicedata from demo
 */
 
 import { DemoFile, Player } from "demofile";
